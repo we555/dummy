@@ -15,3 +15,5 @@ second stash
 3rd edit
 
 someth to fetch
+
+Clear that history!
