@@ -1,10 +1,10 @@
 # dummy
 
+some description
+
 all cleared
 
-onother thing to fethc
-
-some description
+onother thing to fetch
 
 change origin #1
 
@@ -15,4 +15,3 @@ second stash
 3rd edit
 
 someth to fetch
-
